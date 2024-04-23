@@ -44,7 +44,7 @@ https://telegra.ph/file/c253ba5258dc2c5c2f33d.png"
      },
    "FAKE_COUNTRY_CODE": {
     "description": "Put the Country Code Name without +",
-     "value": "212",
+     "value": "94",
      "required" :false
     },
      "ANTILINK_ACTION": {
@@ -58,7 +58,7 @@ https://telegra.ph/file/c253ba5258dc2c5c2f33d.png"
      "value": "false"
     },
     "SUDO": {
-    "description": "PUT NUMBER For Sudo and without +",
+    "description": "94711451319",
      "required"  :false
     },
       "READ_MESSAGE": {
@@ -69,7 +69,7 @@ https://telegra.ph/file/c253ba5258dc2c5c2f33d.png"
     "BOT_NAME": {
 	    "description": "Choose your bot name",
 	    "required": "true",
-	    "value": "*KING-MD*"
+	    "value": "*DINKA NADEEN BOT*"
 },
     "DISABLE_PM": {
       "description": "Disable bot in pm",
@@ -82,14 +82,15 @@ https://telegra.ph/file/c253ba5258dc2c5c2f33d.png"
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "92Xxxxxxxx"
+       "value": "94711451319"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
+    "description": "KING-MD;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQUY1S0VWdFk3WWJIalJzU0NSVXdHYXhHK3BBZ0QzaUVTSS9pdW54M3AwUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiK056QmxUUm9PMjhWUUNPNzgrR2pEdGNzUlFEcHppUGJUdTF6SGszTHBDaz0ifX0sInNpZ25lZElkZW50aXR5S2V5Ijp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI2STJGbXhTa1RGRWZqSVZZdktvempIZlh5VGNiNGZRRGl4QThTNHF6cjN3PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzQWt3SnQxTy9kL1dQeWlQYjVIV0lZbjdBemJrTUUxdEFtMWVYQXk0NXdNPSJ9fSwic2lnbmVkUHJlS2V5Ijp7ImtleVBhaXIiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlNLUlBNSU9KRkhHbTY4TkNYd3ZDWHF2dmI0ZDh0c2puc0QwNE5Iem43VWM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InpQVUNmM0EwVHpvaDVhRnVMdWZGMlVpTkdWdys2eTdIS0hLcFJBT2VmM3c9In19LCJzaWduYXR1cmUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJOcld0VE1id1E5cy9zTXhwSzhlRkVnM1hmTTRYWEVieG1qZmJmNWQ5TmQxRkFrTkJrTUlzRFBoT3hkMUlvN1R5bnFYN1NRZmQxZisxSXhwUnpWdUFnZz09In0sImtleUlkIjoxfSwicmVnaXN0cmF0aW9uSWQiOjE4NiwiYWR2U2VjcmV0S2V5IjoiYnk1eVdxdzFnaDlmb2JzL3I2aE5ZUHhMTkdXbHJzS2NNSitRZDBLNVlEOD0iLCJwcm9jZXNzZWRIaXN0b3J5TWVzc2FnZXMiOltdLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MCwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoiM3U2ZGprV2VUUmVxWlZ1VUdMV3FldyIsInBob25lSWQiOiJhZjkxMjdjNi0wMDQyLTRmYjItYTk0ZS02MTFmNzM0NTc2MjIiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZGxINWZIa1NRR3psa3N1Uk9BUVg5dGtEUWFrPSJ9LCJyZWdpc3RlcmVkIjpmYWxzZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDdDV5THZmb3pkR1Zmc2xESXFYTjhIQUEvaWc9In0sInJlZ2lzdHJhdGlvbiI6e30sImFjY291bnQiOnsiZGV0YWlscyI6IkNMNmdwSllCRUlpVm5yRUdHQVlnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJxRkZZak9QQThYZERLWHBpWlRxOHVxeGwyZVlNd1h1YklaclpHaTRka3hjPSIsImFjY291bnRTaWduYXR1cmUiOiJlRW9ObWVPNHlZWjE5RFpveXBDTG1sL2tIVXp1eEhrUzNWY05HMzloUXNqOWVDTllMK3JYOUJISGJ2aWYwTTUxN1JFbTg0M0hiQlZRSThkOURjZ3REdz09IiwiZGV2aWNlU2lnbmF0dXJlIjoidTRuYS92YU91ZjZwVThURnk4VEFibkEwWXFJQWp2d2o0RHlic2NRRUVFeWdJWklpOWFNUG9ySmlUc080c1lKOHBHMEZUaHdmUzl0QTQzc29TcnpnaEE9PSJ9LCJtZSI6eyJpZCI6Ijk0NzExNDUxMzE5OjE3QHMud2hhdHNhcHAubmV0IiwibmFtZSI6IlVua25vd24ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiOTQ3MTE0NTEzMTk6MTdAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCYWhSV0l6andQRjNReWw2WW1VNnZMcXNaZG5tRE1GN215R2EyUm91SFpNWCJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcxMzg2NzQxMCwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFMNlYifQ=="
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
-       "value": "ADD A OPEN AI KEY",
+       "value": "
+",
        "required" :false
   },
   "MONGODB_URI": {
@@ -98,7 +99,7 @@ https://telegra.ph/file/c253ba5258dc2c5c2f33d.png"
   },
     "THEME": {
     "description": "Don't Change . No Need To Change Only Avilable King-Md .",
-     "value": "KING-MD"
+     "value": "NADEEN"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -111,11 +112,11 @@ https://telegra.ph/file/c253ba5258dc2c5c2f33d.png"
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "naveeddogar"
+    "value": "NADEEN"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "king-mdbot"
+    "value": "DINKA BOT"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
